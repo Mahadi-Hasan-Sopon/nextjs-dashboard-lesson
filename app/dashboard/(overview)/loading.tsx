@@ -1,5 +1,4 @@
-import { lusitana } from '../../ui/fonts';
-import DashboardSkeleton from '../../ui/skeletons';
+import DashboardSkeleton from '@/app/ui/skeletons';
 
 const DashboardLoading = () => {
   return (
